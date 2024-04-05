@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/I_am_REVELER" target="blank"><img src="https://img.shields.io/twitter/follow/I_am_REVELER?logo=twitter&style=for-the-badge" alt="I_am_REVELER" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Web Development**
 
