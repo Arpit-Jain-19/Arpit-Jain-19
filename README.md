@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <a href="https://twitter.com/I_am_REVELER" target="blank"><img src="https://img.shields.io/twitter/follow/I_am_REVELER?logo=twitter&style=for-the-badge" alt="I_am_REVELER" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_arpit19" target="blank"><img src="https://img.shields.io/twitter/follow/the_arpit19?logo=twitter&style=for-the-badge" alt="the_arpit19" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/I_am_REVELER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="I_am_REVELER" height="30" width="40" /></a>
+<a href="https://twitter.com/the_arpit19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_arpit19" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arpit-jain-7b2895203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-jain-7b2895203" height="30" width="40" /></a>
-<a href="https://www.facebook.com/noble.man.1911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nobel.man.1911" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the.arpit19/?next=%2F&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.arpit19" height="30" width="40" /></a>
+<a href="https://www.facebook.com/the.arpit19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.arpit19" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_arpit19/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_arpit19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
